@@ -1,27 +1,3 @@
-You've got an amazing foundation and an impressive tech stack\! You're right, though—the layout is a bit basic and all that great information gets lost in a long scroll.
-
-Let's make it "insane" by organizing it into a modern, dashboard-style profile that's visually striking and much easier to read.
-
-### 🚀 What I Changed to Make it "Insane"
-
-1.  **Dynamic Header Banner:** I've added a `capsule-render` animated banner at the very top. This is the first thing people see and immediately grabs their attention.
-2.  **Centralized Socials:** Your social badges are now centered right below the header for a clean, professional look.
-3.  **Two-Column Dashboard:** This is the biggest change. I've used a table to create a two-column layout.
-      * **On the left:** A rewritten, engaging "About Me" bio.
-      * **On the right:** Your key GitHub Stats and Top Languages. This "at-a-glance" view is what most professional profiles use.
-4.  **Clean Tech Stack:** Your biggest problem was the *wall* of tech badges. It's impressive, but unreadable. I've organized them into clear, separated tables by category (Languages, AI/ML, Backend, etc.). This is *way* more scannable and looks 10x more professional.
-5.  **New "Activity Graph":** I added the popular "Activity Graph" to show your recent contribution activity in a cool, visual way.
-6.  **Better Sectioning:** All your other stats (Streak, Trophies) are now grouped under a "GitHub Journey" section for a more logical flow.
-
------
-
-### Code for Your New README.md
-
-Just copy and paste this entire code block into your `README.md` file.
-
-**One very important step:** Find the line `⚡ Fun fact: [ADD YOUR FUN FACT HERE!]` and replace the placeholder with an actual fun fact about yourself\!
-
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0077B5&height=250&section=header&text=Hey!%20I'm%20Sakshyam%20Bastakoti&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff" alt="Header Banner"/>
 </p>
@@ -202,5 +178,3 @@ Just copy and paste this entire code block into your `README.md` file.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
-
-```
