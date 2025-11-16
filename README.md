@@ -12,6 +12,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=they-call-me-electronerd&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+img src="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=panda&no-frame=false&no-bg=true&margin-w=4)
 
@@ -25,3 +36,5 @@
 [![](https://visitcount.itsvg.in/api?id=they-call-me-electronerd&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
