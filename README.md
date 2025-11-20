@@ -1,45 +1,66 @@
 <div align="center">
 
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR2ZWF3YmE2NjF5NzM3d2VwbmN5b3B5aDJ5b3B5aDJ5b3B5aDJ5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3qYN8S0j3bpK/giphy.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=System+Initialized...;Architect+of+Cyrus+3.0;Humanoid+Robotics+Dev;Penetration+Tester;Full+Stack+Engineer" alt="Typing SVG" /></a>
+<!-- ANIMATED HEADER WITH TYPING EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SYSTEM%20MAINFRAME&fontSize=50&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Accessing%20Electronerd%20Protocol&descAlignY=55&descSize=20" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initiating+System...;Architect+of+Cyrus+3.0;Robotics+Engineer;AI+Protocol+Developer;Mainframe+Infiltrator)](https://git.io/typing-svg)
+
+<!-- SOCIAL BADGES - HORIZONTAL CYBERPUNK STYLE -->
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/🌐_MAINFRAME-00F0FF?style=for-the-badge&logoColor=black)](https://sakshyambastakoti.com.np)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN_PROTOCOL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshyambastakoti)
+[![Email](https://img.shields.io/badge/SECURE_CHANNEL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshyamxeetri@gmail.com)
+[![Blog](https://img.shields.io/badge/DATA_LOGS-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://techinnovation4u.blogspot.com)
+[![YouTube](https://img.shields.io/badge/BROADCAST-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@@techworldxyz)
+[![Instagram](https://img.shields.io/badge/VISUAL_FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sakxam_console.log)
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 🤖 SYSTEM STATUS: <span style="color: #00ff00;">ONLINE</span>
-
-</div>
-
-<table align="center">
+<!-- MAIN DASHBOARD - TWO COLUMN LAYOUT -->
+<table border="0" width="100%">
 <tr>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
-### 👨‍💻 User Protocol: `Electronerd`
+### 🖥️ TERMINAL BIO
 
-> **Current Objective:**
-> <br>🛠️ **Building Cyrus 3.0:** Next-Gen Humanoid AI Robot.
-> <br>_Attempting to bridge the gap between silicon and soul._
-
-> **Download in Progress:**
-> <br>🌱 Advanced Robotics Dynamics, TensorFlow, Next.js & Pen-testing.
-
-> **Terminal Access:**
-> <br>💬 Ask me about **ESP32, Embedded AI, Ethical Hacking**
-> <br>📫 [sakshyamxeetri@gmail.com](mailto:sakshyamxeetri@gmail.com)
-> <br>📄 [View System Logs (Resume)](https://tinyurl.com/sakxam)
-
-> **Runtime Exception:**
-> <br>⚡ *Fun Fact:* I write code that makes robots walk, but I still trip over my own shoelaces.
+```json
+{
+  "identity": {
+    "name": "Sakshyam Bastakoti",
+    "alias": "they-call-me-electronerd",
+    "designation": "Robotics Engineer | AI Architect"
+  },
+  "current_project": {
+    "name": "Cyrus 3.0",
+    "type": "Next-Gen Humanoid AI Robot",
+    "status": "IN_DEVELOPMENT"
+  },
+  "specialization": [
+    "Embedded Systems Architecture",
+    "Neural Network Engineering",
+    "Cyber-Physical Systems",
+    "Offensive Security Research"
+  ],
+  "reach": {
+    "mainframe": "sakshyambastakoti.com.np",
+    "secure_channel": "sakshyamxeetri@gmail.com",
+    "portfolio": "tinyurl.com/sakxam"
+  },
+  "philosophy": "Building the future, one line of code at a time"
+}
+```
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+### 📡 SYSTEM METRICS
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=they-call-me-electronerd&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" width="100%"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=they-call-me-electronerd&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="100%"/>
 
 </td>
 </tr>
@@ -47,55 +68,101 @@
 
 ---
 
+## ⚡ THE ARSENAL
+
 <div align="center">
 
-## 🛠️ THE ARMORY (Tech Stack)
+### 🤖 ROBOTICS & AI PROTOCOLS
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+### 💻 CORE SYSTEMS
 
-<br/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 WEB ARCHITECTURE
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🔧 HARDWARE INTERFACE
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+### 🛡️ SECURITY & DEVOPS
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 ACTIVITY MATRIX
+
 <div align="center">
 
-### 📡 CONNECT TO MAINFRAME
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sakshyam.xeetri)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sakxam_console.log)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshyambastakoti)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@techworldxyz)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="48%"/>
+
+</div>
 
 ---
 
-### 🧬 CONTRIBUTION DNA
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=radical&hide_border=true&layout=compact" />
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+## 🐍 NEURAL PATHWAY VISUALIZATION
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Snake animation](https://github.com/they-call-me-electronerd/they-call-me-electronerd/blob/output/github-contribution-grid-snake.svg)
+---
 
-<br>
-<p align="right"><sub><i>System Architect: Sakshyam Bastakoti // End of Line_</i></sub></p>
-[![](https://visitcount.itsvg.in/api?id=they-call-me-electronerd&icon=9&color=0)](https://visitcount.itsvg.in)
+## 💭 SYSTEM WISDOM
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+---
+
+## 📈 PROTOCOL ENGAGEMENT
+
+<div align="center">
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=they-call-me-electronerd&label=System%20Access%20Count&color=0&icon=9&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=30&fontColor=00F0FF&animation=twinkling" width="100%"/>
+
+</div>
+
+<!-- 
+████████████████████████████████████████████████████████████████
+█ SYSTEM DESIGNED BY: SAKSHYAM BASTAKOTI                      █
+█ BUILD: CYBERPUNK DASHBOARD v3.0                             █
+█ STATUS: ONLINE                                              █
+████████████████████████████████████████████████████████████████
+-->
