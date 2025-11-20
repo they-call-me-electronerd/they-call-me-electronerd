@@ -3,7 +3,7 @@
 <!-- ELITE CYBERPUNK HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=ELECTRONERD%20MAINFRAME&fontSize=60&fontColor=00F0FF&animation=fadeIn&desc=Architect%20of%20Cyrus%203.0%20•%20Robotics%20Engineer&descAlignY=65&descSize=20&stroke=00F0FF&strokeWidth=3" width="100%"/>
 
-<!-- PREMIUM TYPING ANIMATION (GUARANTEED TO WORK) -->
+<!-- PREMIUM TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initiating+System+Protocols;Architect+of+Cyrus+3.0+Humanoid+AI;Robotics+Engineer;AI+%26+Machine+Learning+Expert;Ethical+Hacker;Full+Stack+Developer;Building+the+Future+of+Robotics" alt="Typing SVG" />
 
 <br/>
@@ -42,7 +42,7 @@
 
 ---
 
-<!-- MAINFRAME DASHBOARD -->
+<!-- MAINFRAME DASHBOARD - BALANCED LAYOUT -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
   SYSTEM ARCHITECTURE — CORE PROFILE
@@ -51,84 +51,57 @@
 
 <table width="100%" border="0">
 <tr>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-### 🖥️ **TERMINAL BIO [JSON]**
+### 🖥️ **TERMINAL BIO**
 
 ```json
 {
   "system": {
     "name": "Sakshyam Bastakoti",
     "alias": "they-call-me-electronerd",
-    "designation": "Robotics Engineer | AI Architect",
+    "role": "Robotics Engineer | AI Architect",
     "status": "ACTIVE_DEVELOPMENT"
   },
   "flagship_project": {
     "name": "Cyrus 3.0",
     "type": "Next-Gen Humanoid AI Robot",
-    "tech_stack": ["TensorFlow", "ROS", "C++", "Python"],
-    "progress": "85%",
-    "goal": "Human-Robot Interaction Revolution"
+    "tech": ["TensorFlow", "ROS", "C++", "Python"],
+    "progress": "85%"
   },
-  "core_expertise": [
+  "expertise": [
     "🤖 Robotics & Embedded Systems",
     "🧠 AI/ML & Neural Networks",
-    "🔐 Ethical Hacking & Cybersecurity",
-    "🌐 Full-Stack Web Development",
-    "⚡ IoT & ESP Board Programming"
+    "🔐 Ethical Hacking & Security",
+    "🌐 Full-Stack Development",
+    "⚡ IoT & ESP Programming"
   ],
   "contact": {
-    "mainframe": "sakshyambastakoti.com.np",
-    "email": "sakshyamxeetri@gmail.com",
-    "portfolio": "tinyurl.com/sakxam"
+    "web": "sakshyambastakoti.com.np",
+    "email": "sakshyamxeetri@gmail.com"
   },
-  "philosophy": {
-    "motto": "Code. Build. Break. Repeat.",
-    "vision": "Bridging AI with Physical Reality"
-  }
+  "motto": "Code. Build. Break. Repeat."
 }
 ```
 
-### 📊 **CURRENT FOCUS**
-
-```python
-class ElectroNerd:
-    def __init__(self):
-        self.name = "Sakshyam Bastakoti"
-        self.role = "Robotics Engineer"
-        self.current_project = "Cyrus 3.0"
-        
-    def current_learning(self):
-        return [
-            "Advanced Robotics Dynamics",
-            "Neural Network Optimization",
-            "Penetration Testing (CEH)",
-            "Next.js & Modern Frameworks"
-        ]
-        
-    def ask_me_about(self):
-        return [
-            "AI & Machine Learning",
-            "Robot Operating System (ROS)",
-            "ESP32/Arduino Programming",
-            "Ethical Hacking & Security",
-            "Full-Stack Development"
-        ]
-    
-    def fun_fact(self):
-        return "I talk to robots more than humans! 🤖"
-```
-
 </td>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 ### 📡 **SYSTEM METRICS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&card_width=500" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&card_width=500&hide=contribs" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=they-call-me-electronerd&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=888888" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=they-call-me-electronerd&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=888888&card_width=500" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&layout=compact&langs_count=10&card_width=500" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&layout=compact&langs_count=8&card_width=500&hide=html,css" width="100%"/>
+
+### 🎯 **QUICK STATS**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Repos-50+-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Total_Stars-100+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Commits-500+-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Commits"/>
+</p>
 
 </td>
 </tr>
@@ -152,7 +125,6 @@ class ElectroNerd:
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
 </p>
 
 ### 💻 **CORE PROGRAMMING LANGUAGES**
@@ -179,8 +151,6 @@ class ElectroNerd:
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
 
 ### ⚡ **EMBEDDED SYSTEMS & IoT**
@@ -201,7 +171,7 @@ class ElectroNerd:
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </p>
 
-### ☁️ **DEVOPS & CLOUD INFRASTRUCTURE**
+### ☁️ **DEVOPS & CLOUD**
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -213,7 +183,7 @@ class ElectroNerd:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 🗄️ **DATABASE SYSTEMS**
+### 🗄️ **DATABASES**
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -222,7 +192,7 @@ class ElectroNerd:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### 🎨 **DESIGN & PRODUCTIVITY TOOLS**
+### 🎨 **DESIGN & TOOLS**
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
@@ -233,24 +203,24 @@ class ElectroNerd:
 
 ---
 
-<!-- ACTIVITY MATRIX -->
+<!-- ACTIVITY MATRIX - HUGE & IMPRESSIVE -->
 <h2 align="center">
   📊 ACTIVITY MATRIX — ADVANCED ANALYTICS
 </h2>
 
 <div align="center">
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=they-call-me-electronerd&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true&title_color=00F0FF&area_color=00F0FF&custom_title=Contribution%20Activity%20Graph" width="98%"/>
+<!-- Massive Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=they-call-me-electronerd&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true&title_color=00F0FF&area_color=00F0FF&custom_title=Annual%20Contribution%20Activity%20Graph&height=400" width="98%"/>
 
 <br/><br/>
 
-<!-- Profile Summary -->
+<!-- Profile Summary - Full Width -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=they-call-me-electronerd&theme=radical" width="98%"/>
 
 <br/><br/>
 
-<!-- 4-Grid Stats -->
+<!-- 4-Grid Premium Stats -->
 <table width="98%">
 <tr>
 <td width="50%">
@@ -272,13 +242,13 @@ class ElectroNerd:
 
 <br/>
 
-<!-- Trophy Showcase -->
+<!-- Massive Trophy Display -->
 <img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers&rank=SECRET,SSS,SS,S,AAA,AA,A" width="98%"/>
 
 <br/><br/>
 
-<!-- Top Contributed Repos -->
-<img src="https://github-contributor-stats.vercel.app/api?username=they-call-me-electronerd&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="65%"/>
+<!-- Top Contributed Repos - Larger -->
+<img src="https://github-contributor-stats.vercel.app/api?username=they-call-me-electronerd&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="70%"/>
 
 </div>
 
@@ -538,18 +508,16 @@ class ElectroNerd:
 </div>
 
 <!-- 
-  🎉 CONGRATULATIONS! YOU FOUND THE SECRET! 🎉
+  🎉 SECRET DEVELOPER ZONE 🎉
   
-  If you're reading this, you're a true developer!
+  Cyrus 3.0 Fun Facts:
+  • 23 servo motors for lifelike movement
+  • TensorFlow-powered real-time AI
+  • ROS modular architecture
+  • ESP32 custom control system
+  • Voice recognition & computer vision
   
-  Fun Facts about Cyrus 3.0:
-  • 23 servo motors for human-like movement
-  • Powered by TensorFlow for real-time AI
-  • ROS-based modular architecture
-  • Custom ESP32 control system
-  • Voice recognition capabilities
+  Email: sakshyamxeetri@gmail.com
   
-  Let's connect: sakshyamxeetri@gmail.com
-  
-  P.S. - Star ⭐ my repos and Cyrus will do a happy dance! 🤖💃
+  ⭐ Star my repos = Happy robot dance! 🤖💃
 -->
