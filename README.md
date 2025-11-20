@@ -1,40 +1,117 @@
-# 💫 About Me:
-🔭 Working On: Cyrus 3.0 – Next-Gen Humanoid AI Robot<br>🌱 Learning: TensorFlow, Next.js, Penetration Testing, Advanced Robotics Dynamics<br>👨‍💻 Projects: sakshyambastakoti.com.np<br>📝 Writing: techinnovation4u.blogspot.com<br>💬 Ask Me About: AI, Robotics, Embedded Systems, ESP Boards, Ethical Hacking, Web Development<br>📫 Reach Me: sakshyamxeetri@gmail.com<br>📄 Experience: tinyurl.com/sakxam<br>⚡ Fun Fact: I’m nerdy about robots and code.<br><br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakshyam.xeetri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakxam_console.log) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshyambastakoti) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TechWorldXYZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshyamxeetri@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=they-call-me-electronerd&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-img src="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sakshyam+Bastakoti;Cyrus+3.0+Architect;Robotics+Engineer;Full+Stack+Developer;Ethical+Hacker" alt="Typing SVG" />
 </div>
 
-###
+<div align="center">
+  <a href="https://github.com/they-call-me-electronerd">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sakshyambastakoti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sakshyamxeetri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tinyurl.com/sakxam">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@@TechWorldXYZ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=panda&no-frame=false&no-bg=true&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">⚡ <span style="color:#35ce8d">About The Electronerd</span></h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=they-call-me-electronerd&limit=5&theme=react&combine_all_yearly_contributions=true)
+<div align="center">
+  Creating the intersection between <b>Humanoid Robotics</b> and <b>Secure Web Systems</b>.
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=they-call-me-electronerd&icon=0&color=12)](https://visitcount.itsvg.in)
+<br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🔭 <b>Current Opus:</b> Cyrus 3.0 (Next-Gen Humanoid AI Robot)</li>
+        <li>🌱 <b>Learning:</b> TensorFlow, Adv. Dynamics, Penetration Testing</li>
+        <li>👨‍💻 <b>Portfolio:</b> <a href="https://sakshyambastakoti.com.np">sakshyambastakoti.com.np</a></li>
+        <li>📝 <b>Blog:</b> <a href="https://techinnovation4u.blogspot.com">techinnovation4u.blogspot.com</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>💬 <b>Ask Me About:</b> Embedded Systems, ESP32, Robotics, AI</li>
+        <li>📄 <b>Experience:</b> <a href="https://tinyurl.com/sakxam">View My Journey</a></li>
+        <li>⚡ <b>Fun Fact:</b> I speak C++ better than I speak French.</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:sakshyamxeetri@gmail.com">sakshyamxeetri@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
+<h3 align="center">🛠️ Technologies & Arsenal</h3>
+
+<div align="center">
+
+<b>🤖 Robotics & IoT</b><br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+
+<br/><br/>
+
+<b>🧠 AI & Machine Learning</b><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+<br/><br/>
+
+<b>💻 Full Stack Web</b><br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+
+<br/><br/>
+
+<b>☁️ Cloud & Database</b><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160px" alt="Languages" />
+</div>
+
+<div align="center">
+ <img src="https://nirzak-streak-stats.vercel.app/?user=they-call-me-electronerd&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+</div>
+
+<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br />
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <br /><br />
+  <img src="https://visitcount.itsvg.in/api?id=they-call-me-electronerd&icon=5&color=6" />
+</div>
