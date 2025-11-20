@@ -118,8 +118,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&langs_count=10&card_width=450" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=-C,-?" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=they-call-me-electronerd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&layout=compact" width="55%"/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=they-call-me-electronerd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="55%"/>
 
 </div>
 
@@ -149,7 +158,15 @@
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=they-call-me-electronerd&label=System%20Access%20Count&color=0&icon=9&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=they-call-me-electronerd&label=SYSTEM%20ACCESS%20COUNT&color=00F0FF&style=for-the-badge&abbreviated=true)
+
+<br/>
+
+**OR**
+
+<br/>
+
+[![Visitor Count](https://profile-counter.glitch.me/they-call-me-electronerd/count.svg)](https://github.com/they-call-me-electronerd)
 
 </div>
 
