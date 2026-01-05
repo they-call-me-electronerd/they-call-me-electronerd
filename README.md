@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ELITE CYBERPUNK HEADER -->
+<!-- ELITE CYBERPUNK kist  HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=ELECTRONERD%20MAINFRAME&fontSize=60&fontColor=00F0FF&animation=fadeIn&desc=Architect%20of%20Cyrus%203.0%20•%20Robotics%20Engineer&descAlignY=65&descSize=20&stroke=00F0FF&strokeWidth=3" width="100%"/>
 
 <!-- PREMIUM TYPING ANIMATION -->
