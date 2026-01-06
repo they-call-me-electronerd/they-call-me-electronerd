@@ -284,63 +284,7 @@
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">
-  🚀 FEATURED PROJECTS
-</h2>
 
-<div align="center">
-
-<table width="90%">
-<tr>
-<td width="50%" align="center">
-
-### **🤖 Cyrus 3.0**
-#### *Next-Gen Humanoid AI Robot*
-
-<img src="https://img.shields.io/badge/STATUS-Active_Development-00FF00?style=for-the-badge" alt="Status"/>
-
-**Tech Stack:**
-- TensorFlow & PyTorch
-- Robot Operating System (ROS)
-- Computer Vision (OpenCV)
-- C++ & Python
-
-**Features:**
-- 23 servo motors
-- Real-time object detection
-- Voice recognition
-- Human-like movement
-
-[🔗 View Project](https://sakshyambastakoti.com.np)
-
-</td>
-<td width="50%" align="center">
-
-### **🌐 Portfolio Website**
-#### *Modern Personal Showcase*
-
-<img src="https://img.shields.io/badge/STATUS-Live-00FF00?style=for-the-badge" alt="Status"/>
-
-**Tech Stack:**
-- Next.js & React
-- Tailwind CSS
-- Vercel Deployment
-- Responsive Design
-
-**Features:**
-- Lightning-fast performance
-- SEO optimized
-- Dark mode support
-- Mobile responsive
-
-[🔗 Visit Site](https://sakshyambastakoti.com.np)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <a href="https://github.com/they-call-me-electronerd?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="View Repositories"/>
@@ -359,34 +303,6 @@
 
 [![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://techinnovation4u.blogspot.com)
 
-**I regularly write about:**
-- 🤖 Robotics & AI Development
-- 💻 Programming Tutorials
-- 🔐 Cybersecurity Insights
-- ⚡ IoT & Embedded Systems
-- 🚀 Tech Innovation & Trends
-
-</div>
-
----
-
-<!-- ACHIEVEMENTS -->
-<h2 align="center">
-  🏆 ACHIEVEMENTS & CERTIFICATIONS
-</h2>
-
-<div align="center">
-
-```
-🎓 Robotics Engineering Specialization
-🔐 Ethical Hacking & Penetration Testing
-💻 Full-Stack Web Development
-🤖 AI/ML & Deep Learning Expert
-⚡ IoT & Embedded Systems Professional
-🌐 Cloud Computing & DevOps
-```
-
-<br/>
 
 <a href="https://tinyurl.com/sakxam">
   <img src="https://img.shields.io/badge/VIEW_FULL_RESUME-00F0FF?style=for-the-badge&logo=readme&logoColor=black&labelColor=0D1117" alt="Resume"/>
