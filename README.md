@@ -1,197 +1,213 @@
 <div align="center">
 
 <!-- ELITE CYBERPUNK HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=ELECTRONERD%20MAINFRAME&fontSize=60&fontColor=00F0FF&animation=fadeIn&desc=Architect%20of%20Cyrus%203.0%20•%20Robotics%20Engineer&descAlignY=65&descSize=20&stroke=00F0FF&strokeWidth=3" width="100%"/>
 
 <!-- PREMIUM TYPING ANIMATION -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initiating+System+Protocols;Architect+of+Cyrus+3.0+Humanoid+AI;Robotics+Engineer;AI+%26+Machine+Learning+Expert;Ethical+Hacker;Full+Stack+Developer;Building+the+Future+of+Robotics" alt="Typing SVG" />
 
-<br/>
+<!-- PREMIUM SOCIAL BADGES (Icon Only Style) -->
 
-<!-- PREMIUM SOCIAL BADGES -->
 <p align="center">
-  <a href="https://sakshyambastakoti.com.np">
-    <img src="https://img.shields.io/badge/🌐_MAINFRAME-00F0FF?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="Website"/>
-  </a>
-  <a href="mailto:sakshyamxeetri@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/sakshyambastakoti">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://techinnovation4u.blogspot.com">
-    <img src="https://img.shields.io/badge/BLOG-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D1117" alt="Blog"/>
-  </a>
-  <a href="https://youtube.com/@techworldxyz">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
-  </a>
+<a href="https://sakshyambastakoti.com.np" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-00F0FF%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dblack" height="35" alt="Website"/>
+</a>
+<a href="mailto:sakshyamxeetri@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" height="35" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/sakshyambastakoti" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" height="35" alt="LinkedIn"/>
+</a>
+<a href="https://techinnovation4u.blogspot.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Blog-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dblogger%26logoColor%3Dwhite" height="35" alt="Blog"/>
+</a>
+<a href="https://youtube.com/@techworldxyz" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" height="35" alt="YouTube"/>
+</a>
+<a href="https://instagram.com/sakxam_console.log" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+</a>
+<a href="https://facebook.com/sakshyam.xeetri" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" height="35" alt="Facebook"/>
+</a>
 </p>
-
 <p align="center">
-  <a href="https://instagram.com/sakxam_console.log">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/sakshyam.xeetri">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=they-call-me-electronerd&label=VISITORS&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/they-call-me-electronerd?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=they-call-me-electronerd&label=VISITORS&color=00F0FF&style=for-the-badge" height="30" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/they-call-me-electronerd?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" height="30" alt="Followers"/>
 </p>
 
 </div>
 
----
-
 <!-- MAINFRAME DASHBOARD - BALANCED LAYOUT -->
+
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
-  SYSTEM ARCHITECTURE — CORE PROFILE
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
+SYSTEM ARCHITECTURE — CORE PROFILE
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
 </h2>
 
 <table width="100%" border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
+👤 OPERATOR IDENTITY
 
+"Code is the poetry of a better future."
+
+👨‍💻 Role: Robotics Engineer & Full-Stack Architect
+
+🔭 Current Project: Building Cyrus 3.0 (Humanoid AI)
+
+🌱 Learning: Advanced Computer Vision & Neural Networks
+
+⚡ Fun Fact: I can debug hardware with my eyes closed (literally).
+
+📍 Location: Earth, Sol System (Nepal)
 
 </td>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 📡 **SYSTEM METRICS**
+📡 SYSTEM METRICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&card_width=500&hide=contribs" width="100%"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dthey-call-me-electronerd%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00F0FF%26icon_color%3D00F0FF%26text_color%3DFFFFFF%26include_all_commits%3Dtrue%26count_private%3Dtrue%26rank_icon%3Dgithub%26card_width%3D480%26hide%3Dcontribs" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=they-call-me-electronerd&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=888888&card_width=500" width="100%"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dthey-call-me-electronerd%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D00F0FF%26ring%3D00F0FF%26fire%3DFF6B6B%26currStreakLabel%3D00F0FF%26sideLabels%3DFFFFFF%26dates%3D888888%26card_width%3D480" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&layout=compact&langs_count=8&card_width=500&hide=html,css" width="100%"/>
-
-### 🎯 **QUICK STATS**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Repos-50+-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Total_Stars-100+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Commits-500+-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Commits"/>
-</p>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dthey-call-me-electronerd%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00F0FF%26text_color%3DFFFFFF%26layout%3Dcompact%26langs_count%3D8%26card_width%3D480%26hide%3Dhtml,css" width="100%"/>
 
 </td>
 </tr>
 </table>
 
----
-
 <!-- TECH ARSENAL -->
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/>
-  THE ARSENAL — TECH STACK
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/>
+THE ARSENAL — TECH STACK
 </h2>
 
-### 🤖 **ROBOTICS & AI PROTOCOLS**
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-</p>
+<!-- NOTE: Using height="50" for a consistent, professional icon-only look -->
 
-### 💻 **CORE PROGRAMMING LANGUAGES**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-</p>
+🤖 ROBOTICS & AI PROTOCOLS
 
-### 🌐 **WEB DEVELOPMENT FRAMEWORK**
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="50" alt="ROS" title="ROS"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" title="PyTorch"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" title="OpenCV"/>
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" alt="Keras" title="Keras"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas"/>
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-Learn" title="Scikit-Learn"/>
+</div>
 
-### ⚡ **EMBEDDED SYSTEMS & IoT**
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-</p>
+💻 CORE PROGRAMMING LANGUAGES
 
-### 🔐 **CYBERSECURITY & ETHICAL HACKING**
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" title="C"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" title="C#"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="Rust" title="Rust"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="Ruby" title="Ruby"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="Swift" title="Swift"/>
+</div>
 
-### ☁️ **DEVOPS & CLOUD**
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+🌐 WEB DEVELOPMENT FRAMEWORK
 
-### 🗄️ **DATABASES**
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" title="Next.js"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" title="Express"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" title="Django"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask" title="Flask"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" title="FastAPI"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" title="Flutter"/>
+</div>
 
-### 🎨 **DESIGN & TOOLS**
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+⚡ EMBEDDED SYSTEMS & IoT
 
----
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" title="Arduino"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="Raspberry Pi" title="Raspberry Pi"/>
+<!-- Using Simple Icons for chips -->
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/espressif/FFFFFF" height="50" alt="Espressif (ESP32)" title="ESP32/8266"/>
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/stmicroelectronics/3CB4E7" height="50" alt="STM32" title="STM32"/>
+</div>
+
+🔐 CYBERSECURITY & ETHICAL HACKING
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Kali Linux" title="Kali Linux"/>
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/metasploit/black" height="50" alt="Metasploit" title="Metasploit"/>
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/wireshark/1679A7" height="50" alt="Wireshark" title="Wireshark"/>
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/burpsuite/FF6633" height="50" alt="Burp Suite" title="Burp Suite"/>
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/owasp/black" height="50" alt="OWASP" title="OWASP"/>
+</div>
+
+☁️ DEVOPS & CLOUD
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="GitLab" title="GitLab"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" title="AWS"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" alt="Vercel" title="Vercel"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="50" alt="Netlify" title="Netlify"/>
+</div>
+
+🗄️ DATABASES
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="Supabase" title="Supabase"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL"/>
+</div>
+
+🎨 DESIGN & TOOLS
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/adobe/FF0000" height="50" alt="Adobe" title="Adobe"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" title="Canva"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code"/>
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter"/>
+</div>
 
 <!-- ACTIVITY MATRIX - HUGE & IMPRESSIVE -->
+
 <h2 align="center">
-  📊 ACTIVITY MATRIX — ADVANCED ANALYTICS
+📊 ACTIVITY MATRIX — ADVANCED ANALYTICS
 </h2>
 
 <div align="center">
 
 <!-- Massive Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=they-call-me-electronerd&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true&title_color=00F0FF&area_color=00F0FF&custom_title=Annual%20Contribution%20Activity%20Graph&height=400" width="98%"/>
 
-<br/><br/>
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dthey-call-me-electronerd%26bg_color%3D0D1117%26color%3D00F0FF%26line%3D00F0FF%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue%26title_color%3D00F0FF%26area_color%3D00F0FF%26custom_title%3DAnnual%2520Contribution%2520Activity%2520Graph%26height%3D300" width="98%"/>
+
+
+
+
 
 <!-- Profile Summary - Full Width -->
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=they-call-me-electronerd&theme=radical" width="98%"/>
 
-<br/><br/>
+
+
+
 
 <!-- 4-Grid Premium Stats -->
+
 <table width="98%">
 <tr>
 <td width="50%">
@@ -211,96 +227,48 @@
 </tr>
 </table>
 
-<br/>
-
 <!-- Massive Trophy Display -->
+
 <img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers&rank=SECRET,SSS,SS,S,AAA,AA,A" width="98%"/>
 
-<br/><br/>
+
 
 
 
 <!-- 3D SNAKE ANIMATION -->
+
 <h2 align="center">
-  🐍 NEURAL PATHWAY VISUALIZATION
+🐍 NEURAL PATHWAY VISUALIZATION
 </h2>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/they-call-me-electronerd/they-call-me-electronerd/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
----
-
 <!-- INSPIRATIONAL QUOTE -->
+
 <h2 align="center">
-  💭 SYSTEM WISDOM
+💭 SYSTEM WISDOM
 </h2>
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 </div>
-
----
-
-
-
-<!-- CONNECT SECTION -->
-<h2 align="center">
-  📡 CONNECT WITH ME
-</h2>
-
-<div align="center">
-
-<a href="https://sakshyambastakoti.com.np">
-  <img src="https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0D1117" alt="Website"/>
-</a>
-<a href="mailto:sakshyamxeetri@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/sakshyambastakoti">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-</a>
-<a href="https://youtube.com/@techworldxyz">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
-</a>
-<a href="https://instagram.com/sakxam_console.log">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
-</a>
-<a href="https://facebook.com/sakshyam.xeetri">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook"/>
-</a>
-<a href="https://techinnovation4u.blogspot.com">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D1117" alt="Blog"/>
-</a>
-
-<br/><br/>
-
-<!-- Stats Badges -->
-<img src="https://komarev.com/ghpvc/?username=they-call-me-electronerd&label=Profile+Views&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/they-call-me-electronerd?label=Followers&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/they-call-me-electronerd?label=Total+Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github" alt="Stars"/>
-
-</div>
-
----
-
-
 
 <!-- ANIMATED FOOTER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=00F0FF&animation=twinkling&fontAlignY=70&desc=Let's%20build%20the%20future%20together!&descSize=14&descAlignY=90" width="100%"/>
 
 <!-- ASCII ART SIGNATURE -->
+
 <div align="center">
 
-```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
 ║  ███████╗██╗     ███████╗ ██████╗████████╗██████╗  ██████╗ ███╗   ██╗ ║
@@ -325,3 +293,5 @@
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
+
+</div>
