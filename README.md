@@ -53,36 +53,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ **TERMINAL BIO**
 
-```json
-{
-  "system": {
-    "name": "Sakshyam Bastakoti",
-    "alias": "they-call-me-electronerd",
-    "role": "Robotics Engineer | AI Architect",
-    "status": "ACTIVE_DEVELOPMENT"
-  },
-  "flagship_project": {
-    "name": "Cyrus 3.0",
-    "type": "Next-Gen Humanoid AI Robot",
-    "tech": ["TensorFlow", "ROS", "C++", "Python"],
-    "progress": "85%"
-  },
-  "expertise": [
-    "🤖 Robotics & Embedded Systems",
-    "🧠 AI/ML & Neural Networks",
-    "🔐 Ethical Hacking & Security",
-    "🌐 Full-Stack Development",
-    "⚡ IoT & ESP Programming"
-  ],
-  "contact": {
-    "web": "sakshyambastakoti.com.np",
-    "email": "sakshyamxeetri@gmail.com"
-  },
-  "motto": "Code. Build. Break. Repeat."
-}
-```
 
 </td>
 <td width="50%" valign="top">
@@ -286,31 +257,7 @@
 
 
 
-<a href="https://github.com/they-call-me-electronerd?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="View Repositories"/>
-</a>
 
-</div>
-
----
-
-<!-- BLOG & CONTENT -->
-<h2 align="center">
-  📝 LATEST BLOG POSTS
-</h2>
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://techinnovation4u.blogspot.com)
-
-
-<a href="https://tinyurl.com/sakxam">
-  <img src="https://img.shields.io/badge/VIEW_FULL_RESUME-00F0FF?style=for-the-badge&logo=readme&logoColor=black&labelColor=0D1117" alt="Resume"/>
-</a>
-
-</div>
-
----
 
 <!-- CONNECT SECTION -->
 <h2 align="center">
@@ -352,30 +299,7 @@
 
 ---
 
-<!-- SUPPORT SECTION -->
-<h2 align="center">
-  ☕ SUPPORT MY WORK
-</h2>
 
-<div align="center">
-
-<p><em>If you find my projects interesting and want to support my work:</em></p>
-
-<a href="https://www.buymeacoffee.com/sakshyam">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://ko-fi.com/sakshyam">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
-
-<br/><br/>
-
-<p><strong>⭐ Star my repositories if you find them useful!</strong></p>
-<p><em>Your support helps me continue building innovative projects! 🚀</em></p>
-
-</div>
-
----
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=00F0FF&animation=twinkling&fontAlignY=70&desc=Let's%20build%20the%20future%20together!&descSize=14&descAlignY=90" width="100%"/>
@@ -403,37 +327,9 @@
 ║  "The future belongs to those who build it."                           ║
 ║  — Sakshyam Bastakoti                                                  ║
 ║                                                                          ║
-║  🤖 Building Cyrus 3.0 | ⚡ Robotics Engineer | 💻 Full-Stack Dev      ║
-║  🔐 Ethical Hacker | 🧠 AI Enthusiast | 🚀 Innovation Driver           ║
+║   Building Cyrus 3.0 |  Robotics Engineer |  Full-Stack Dev      ║
+║   Ethical Hacker |  AI Enthusiast | Innovation Driver           ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
-
-<p align="center">
-  <em>💙 Crafted with passion by Sakshyam Bastakoti (@they-call-me-electronerd)</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/Powered_by-Coffee_☕-brown?style=for-the-badge" alt="Powered by Coffee"/>
-  <img src="https://img.shields.io/badge/Built_for-Innovation-00F0FF?style=for-the-badge" alt="Built for Innovation"/>
-</p>
-
-</div>
-
-</div>
-
-<!-- 
-  🎉 SECRET DEVELOPER ZONE 🎉
-  
-  Cyrus 3.0 Fun Facts:
-  • 23 servo motors for lifelike movement
-  • TensorFlow-powered real-time AI
-  • ROS modular architecture
-  • ESP32 custom control system
-  • Voice recognition & computer vision
-  
-  Email: sakshyamxeetri@gmail.com
-  
-  ⭐ Star my repos = Happy robot dance! 🤖💃
--->
+>
