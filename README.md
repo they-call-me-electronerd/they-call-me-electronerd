@@ -191,39 +191,7 @@
 
 <br/><br/>
 
-<!-- 4-Grid Premium Stats -->
-<table width="98%">
-<tr>
-<td width="50%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=they-call-me-electronerd&theme=radical" width="100%"/>
-</td>
-<td width="50%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=they-call-me-electronerd&theme=radical" width="100%"/>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=they-call-me-electronerd&theme=radical" width="100%"/>
-</td>
-<td width="50%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=they-call-me-electronerd&theme=radical&utcOffset=5.75" width="100%"/>
-</td>
-</tr>
-</table>
 
-<br/>
-
-<!-- Massive Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers&rank=SECRET,SSS,SS,S,AAA,AA,A" width="98%"/>
-
-<br/><br/>
-
-<!-- Top Contributed Repos - Larger -->
-<img src="https://github-contributor-stats.vercel.app/api?username=they-call-me-electronerd&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="70%"/>
-
-</div>
-
----
 
 <!-- 3D SNAKE ANIMATION -->
 <h2 align="center">
