@@ -60,11 +60,11 @@
 
 ### 📡 **SYSTEM METRICS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&card_width=500&hide=contribs" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;icon_color=00F0FF&amp;text_color=FFFFFF&amp;include_all_commits=true&amp;rank_icon=github&amp;card_width=500&amp;hide=contribs" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=they-call-me-electronerd&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=888888&card_width=500" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=they-call-me-electronerd&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=00F0FF&amp;ring=00F0FF&amp;fire=FF6B6B&amp;currStreakLabel=00F0FF&amp;sideLabels=FFFFFF&amp;dates=888888&amp;card_width=500" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&layout=compact&langs_count=8&card_width=500&hide=html,css" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;text_color=FFFFFF&amp;layout=compact&amp;langs_count=8&amp;card_width=500&amp;hide=html,css" width="100%"/>
 
 ### 🎯 **QUICK STATS**
 
