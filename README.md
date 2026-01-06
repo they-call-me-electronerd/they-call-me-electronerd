@@ -42,43 +42,12 @@
 
 ---
 
-<!-- MAINFRAME DASHBOARD - BALANCED LAYOUT -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
-  SYSTEM ARCHITECTURE — CORE PROFILE
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
-</h2>
-
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
-
 
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 **SYSTEM METRICS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=they-call-me-electronerd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&card_width=500&hide=contribs" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=they-call-me-electronerd&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=888888&card_width=500" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=they-call-me-electronerd&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&layout=compact&langs_count=8&card_width=500&hide=html,css" width="100%"/>
-
-### 🎯 **QUICK STATS**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Repos-50+-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Total_Stars-100+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Commits-500+-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Commits"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- TECH ARSENAL -->
 <h2 align="center">
