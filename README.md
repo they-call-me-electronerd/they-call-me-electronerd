@@ -182,10 +182,7 @@
 
 <br/>
 
-<!-- Massive Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=they-call-me-electronerd&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers&rank=SECRET,SSS,SS,S,AAA,AA,A" width="98%"/>
 
-<br/><br/>
 
 
 
