@@ -1,12 +1,19 @@
 <div align="center">
 
-<!-- ELITE CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=ELECTRONERD%20MAINFRAME&fontSize=60&fontColor=00F0FF&animation=fadeIn&desc=Architect%20of%20Cyrus%203.0%20•%20Robotics%20Engineer&descAlignY=65&descSize=20&stroke=00F0FF&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0D1117&text=SAKSHYAM%20BASTAKOTI&fontSize=65&fontColor=00F0FF&animation=fadeIn&desc=AI%20%26%20ML%20enthusiast%20specializing%20in%20Robotics%2C%20IoT%2C%20Embedded%20Hardware%2C%20and%20Software%20Development&descAlignY=65&descSize=18&stroke=00F0FF&strokeWidth=1" width="100%"/>
 
-<!-- PREMIUM TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initiating+System+Protocols;Architect+of+Cyrus+3.0+Humanoid+AI;Robotics+Engineer;AI+%26+Machine+Learning+Expert;Ethical+Hacker;Full+Stack+Developer;Building+the+Future+of+Robotics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Robotics+Engineer;AI+%26+Machine+Learning+Specialist;Embedded+Systems+Expert;Full+Stack+Developer;Ethical+Hacker" alt="Typing SVG" />
 
 <br/>
+
+<p align="center">
+  <a href="https://sakshyambastakoti.com.np"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=flat-square&logo=google-chrome&logoColor=black" alt="Website"/></a>
+  <a href="mailto:sakshyamxeetri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/sakshyambastakoti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/they-call-me-electronerd"><img src="https://img.shields.io/github/followers/they-call-me-electronerd?label=Followers&style=flat-square&color=00F0FF" alt="Followers"/></a>
+</p>
+
+</div>
 
 <!-- PREMIUM SOCIAL BADGES -->
 <p align="center">
