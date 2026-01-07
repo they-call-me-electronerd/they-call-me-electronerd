@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ELITE CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=ELECTRONERD%20MAINFRAME&fontSize=60&fontColor=00F0FF&animation=fadeIn&desc=AI/Ml%20|Robotics & IoT%20|Embedded Hardware & Software Specialist |%203.0%20•%20Robotics%20Engineer&descAlignY=65&descSize=20&stroke=00F0FF&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=ELECTRONERD%20MAINFRAME&fontSize=60&fontColor=00F0FF&animation=fadeIn&desc=Architect%20of%20Cyrus%203.0%20•%20Robotics%20Engineer&descAlignY=65&descSize=20&stroke=00F0FF&strokeWidth=3" width="100%"/>
 
 <!-- PREMIUM TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initiating+System+Protocols;Architect+of+Cyrus+3.0+Humanoid+AI;Robotics+Engineer;AI+%26+Machine+Learning+Expert;Ethical+Hacker;Full+Stack+Developer;Building+the+Future+of+Robotics" alt="Typing SVG" />
