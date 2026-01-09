@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- PREMIUM SOCIAL BADGES -->
+<!-- PREMIUM SOCIAL BADGEinS -->
 <p align="center">
   <a href="https://sakshyambastakoti.com.np">
     <img src="https://img.shields.io/badge/🌐_MAINFRAME-00F0FF?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="Website"/>
